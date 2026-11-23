@@ -55,8 +55,8 @@ export function CertificatePage() {
         </ul>
         <p className="cert-date">{ready ? `Marked complete ${finishedLabel}` : "Not yet complete"}</p>
         <p className="cert-disclaimer">
-          Self-attested progress stored in one browser. This is not an official University of Bonn credential, it is
-          not proctored, and it does not certify employment or admission.
+          Self-attested progress stored in one browser. This is not an official credential, it is not proctored, and it
+          does not certify employment or admission.
         </p>
       </article>
       <div className="exercise-actions no-print">

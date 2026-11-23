@@ -17,9 +17,9 @@ export function HomePage() {
         <p className="eyebrow">Independent self-study · math first</p>
         <h1>Rebuild the math. Then build the model.</h1>
         <p className="lede">
-          A free path from linear algebra to modern language models, written for someone rebuilding fundamentals on the
-          way through an M.Sc. in AI. Every lesson has the idea, the equations, a program you run in the browser, and
-          three questions. Nothing here is locked behind a login.
+          A free path from linear algebra to modern language models, for anyone rebuilding the fundamentals underneath
+          them. Every lesson has the idea, the equations, a program you run in the browser, and three questions.
+          Nothing here is locked behind a login.
         </p>
         <div className="hero-actions">
           <Link className="btn" to={next ? `/lesson/${next.id}` : "/dashboard"}>
@@ -106,14 +106,13 @@ export function HomePage() {
       <section className="panel note">
         <h2>What this is for</h2>
         <p>
-          University of Bonn students in the M.Sc. AI program often arrive with uneven math and programming, then meet
-          transformers in the same year. This course is a place to close that gap in order: linear algebra and
-          probability, classical models, networks from scratch, attention, training, and the habits that make an NLP
-          number believable.
+          The path is for anyone whose math or programming is rusty and who wants to meet transformers with the
+          foundations in place: linear algebra and probability, classical models, networks from scratch, attention,
+          training, and the habits that make an NLP number believable.
         </p>
         <p>
-          It is not an official university offering, and finishing it is not a credential. The writing is original to
-          this site. The videos and books belong to their authors.
+          Finishing it is not a credential. The writing is original to this site. The videos and books belong to their
+          authors.
         </p>
       </section>
       <footer className="site-foot">

@@ -1,6 +1,6 @@
 # AI Mastery
 
-A free, math-first self-study site for someone rebuilding fundamentals on the way to modern language models. It was written with an M.Sc. AI student at the University of Bonn in mind. It is not an official university course, and finishing it is not a credential.
+A free, math-first self-study site for someone rebuilding fundamentals on the way to modern language models. It is an independent course, and finishing it is not a credential.
 
 Twenty-five lessons sit in six modules:
 
